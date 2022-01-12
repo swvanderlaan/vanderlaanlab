@@ -25,7 +25,7 @@ social:
     link: https://github.com/
 education:
   courses:
-    - course:MSc in Computer Science and Bioinformatics
+    - course: MSc in Computer Science and Bioinformatics
       institution: Leiden University
       year: 2022
     - course: Pre-master Data Science
