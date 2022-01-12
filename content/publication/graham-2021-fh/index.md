@@ -1,0 +1,582 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: The power of genetic diversity in genome-wide association studies of lipids
+subtitle: ''
+summary: ''
+authors:
+- Sarah E Graham
+- Shoa L Clarke
+- Kuan-Han H Wu
+- Stavroula Kanoni
+- Greg J M Zajac
+- Shweta Ramdas
+- Ida Surakka
+- Ioanna Ntalla
+- Sailaja Vedantam
+- Thomas W Winkler
+- Adam E Locke
+- Eirini Marouli
+- Mi Yeong Hwang
+- Sohee Han
+- Akira Narita
+- Ananyo Choudhury
+- Amy R Bentley
+- Kenneth Ekoru
+- Anurag Verma
+- Bhavi Trivedi
+- Hilary C Martin
+- Karen A Hunt
+- Qin Hui
+- Derek Klarin
+- Xiang Zhu
+- Gudmar Thorleifsson
+- Anna Helgadottir
+- Daniel F Gudbjartsson
+- Hilma Holm
+- Isleifur Olafsson
+- Masato Akiyama
+- Saori Sakaue
+- Chikashi Terao
+- Masahiro Kanai
+- Wei Zhou
+- Ben M Brumpton
+- Humaira Rasheed
+- Sanni E Ruotsalainen
+- Aki S Havulinna
+- Yogasudha Veturi
+- Qiping Feng
+- Elisabeth A Rosenthal
+- Todd Lingren
+- Jennifer Allen Pacheco
+- Sarah A Pendergrass
+- Jeffrey Haessler
+- Franco Giulianini
+- Yuki Bradford
+- Jason E Miller
+- Archie Campbell
+- Kuang Lin
+- Iona Y Millwood
+- George Hindy
+- Asif Rasheed
+- Jessica D Faul
+- Wei Zhao
+- David R Weir
+- Constance Turman
+- Hongyan Huang
+- Mariaelisa Graff
+- Anubha Mahajan
+- Michael R Brown
+- Weihua Zhang
+- Ketian Yu
+- Ellen M Schmidt
+- Anita Pandit
+- Stefan Gustafsson
+- Xianyong Yin
+- Jian'an Luan
+- Jing-Hua Zhao
+- Fumihiko Matsuda
+- Hye-Mi Jang
+- Kyungheon Yoon
+- Carolina Medina-Gomez
+- Achilleas Pitsillides
+- Jouke Jan Hottenga
+- Gonneke Willemsen
+- Andrew R Wood
+- Yingji Ji
+- Zishan Gao
+- Simon Haworth
+- Ruth E Mitchell
+- Jin Fang Chai
+- Mette Aadahl
+- Jie Yao
+- Ani Manichaikul
+- Helen R Warren
+- Julia Ramirez
+- Jette Bork-Jensen
+- Line L Kårhus
+- Anuj Goel
+- Maria Sabater-Lleal
+- Raymond Noordam
+- Carlo Sidore
+- Edoardo Fiorillo
+- Aaron F McDaid
+- Pedro Marques-Vidal
+- Matthias Wielscher
+- Stella Trompet
+- Naveed Sattar
+- Line T Møllehave
+- Betina H Thuesen
+- Matthias Munz
+- Lingyao Zeng
+- Jianfeng Huang
+- Bin Yang
+- Alaitz Poveda
+- Azra Kurbasic
+- Claudia Lamina
+- Lukas Forer
+- Markus Scholz
+- Tessel E Galesloot
+- Jonathan P Bradfield
+- E Warwick Daw
+- Joseph M Zmuda
+- Jonathan S Mitchell
+- Christian Fuchsberger
+- Henry Christensen
+- Jennifer A Brody
+- Mary F Feitosa
+- Mary K Wojczynski
+- Michael Preuss
+- Massimo Mangino
+- Paraskevi Christofidou
+- Niek Verweij
+- Jan W Benjamins
+- Jorgen Engmann
+- Rachel L Kember
+- Roderick C Slieker
+- Ken Sin Lo
+- Nuno R Zilhao
+- Phuong Le
+- Marcus E Kleber
+- Graciela E Delgado
+- Shaofeng Huo
+- Daisuke D Ikeda
+- Hiroyuki Iha
+- Jian Yang
+- Jun Liu
+- Hampton L Leonard
+- Jonathan Marten
+- Börge Schmidt
+- Marina Arendt
+- Laura J Smyth
+- Marisa Cañadas-Garre
+- Chaolong Wang
+- Masahiro Nakatochi
+- Andrew Wong
+- Nina Hutri-Kähönen
+- Xueling Sim
+- Rui Xia
+- Alicia Huerta-Chagoya
+- Juan Carlos Fernandez-Lopez
+- Valeriya Lyssenko
+- Meraj Ahmed
+- Anne U Jackson
+- Marguerite R Irvin
+- Christopher Oldmeadow
+- Han-Na Kim
+- Seungho Ryu
+- Paul R H J Timmers
+- Liubov Arbeeva
+- Rajkumar Dorajoo
+- Leslie A Lange
+- Xiaoran Chai
+- Gauri Prasad
+- Laura Lorés-Motta
+- Marc Pauper
+- Jirong Long
+- Xiaohui Li
+- Elizabeth Theusch
+- Fumihiko Takeuchi
+- Cassandra N Spracklen
+- Anu Loukola
+- Sailalitha Bollepalli
+- Sophie C Warner
+- Ya Xing Wang
+- Wen B Wei
+- Teresa Nutile
+- Daniela Ruggiero
+- Yun Ju Sung
+- Yi-Jen Hung
+- Shufeng Chen
+- Fangchao Liu
+- Jingyun Yang
+- Katherine A Kentistou
+- Mathias Gorski
+- Marco Brumat
+- Karina Meidtner
+- Lawrence F Bielak
+- Jennifer A Smith
+- Prashantha Hebbar
+- Aliki-Eleni Farmaki
+- Edith Hofer
+- Maoxuan Lin
+- Chao Xue
+- Jifeng Zhang
+- Maria Pina Concas
+- Simona Vaccargiu
+- Peter J van der Most
+- Niina Pitkänen
+- Brian E Cade
+- Jiwon Lee
+- Sander W van der Laan
+- Kumaraswamy Naidu Chitrala
+- Stefan Weiss
+- Martina E Zimmermann
+- Jong Young Lee
+- Hyeok Sun Choi
+- Maria Nethander
+- Sandra Freitag-Wolf
+- Lorraine Southam
+- Nigel W Rayner
+- Carol A Wang
+- Shih-Yi Lin
+- Jun-Sing Wang
+- Christian Couture
+- Leo-Pekka Lyytikäinen
+- Kjell Nikus
+- Gabriel Cuellar-Partida
+- Henrik Vestergaard
+- Bertha Hildalgo
+- Olga Giannakopoulou
+- Qiuyin Cai
+- Morgan O Obura
+- Jessica van Setten
+- Xiaoyin Li
+- Karen Schwander
+- Natalie Terzikhan
+- Jae Hun Shin
+- Rebecca D Jackson
+- Alexander P Reiner
+- Lisa Warsinger Martin
+- Zhengming Chen
+- Liming Li
+- Heather M Highland
+- Kristin L Young
+- Takahisa Kawaguchi
+- Joachim Thiery
+- Joshua C Bis
+- Girish N Nadkarni
+- Lenore J Launer
+- Huaixing Li
+- Mike A Nalls
+- Olli T Raitakari
+- Sahoko Ichihara
+- Sarah H Wild
+- Christopher P Nelson
+- Harry Campbell
+- Susanne Jäger
+- Toru Nabika
+- Fahd Al-Mulla
+- Harri Niinikoski
+- Peter S Braund
+- Ivana Kolcic
+- Peter Kovacs
+- Tota Giardoglou
+- Tomohiro Katsuya
+- Konain Fatima Bhatti
+- Dominique de Kleijn
+- Gert J de Borst
+- Eung Kweon Kim
+- Hieab H H Adams
+- M Arfan Ikram
+- Xiaofeng Zhu
+- Folkert W Asselbergs
+- Adriaan O Kraaijeveld
+- Joline W J Beulens
+- Xiao-Ou Shu
+- Loukianos S Rallidis
+- Oluf Pedersen
+- Torben Hansen
+- Paul Mitchell
+- Alex W Hewitt
+- Mika Kähönen
+- Louis Pérusse
+- Claude Bouchard
+- Anke Tönjes
+- Yii-Der Ida Chen
+- Craig E Pennell
+- Trevor A Mori
+- Wolfgang Lieb
+- Andre Franke
+- Claes Ohlsson
+- Dan Mellström
+- Yoon Shin Cho
+- Hyejin Lee
+- Jian-Min Yuan
+- Woon-Puay Koh
+- Sang Youl Rhee
+- Jeong-Taek Woo
+- Iris M Heid
+- Klaus J Stark
+- Henry Völzke
+- Georg Homuth
+- Michele K Evans
+- Alan B Zonderman
+- Ozren Polasek
+- Gerard Pasterkamp
+- Imo E Hoefer
+- Susan Redline
+- Katja Pahkala
+- Albertine J Oldehinkel
+- Harold Snieder
+- Ginevra Biino
+- Reinhold Schmidt
+- Helena Schmidt
+- Y Eugene Chen
+- Stefania Bandinelli
+- George Dedoussis
+- Thangavel Alphonse Thanaraj
+- Sharon L R Kardia
+- Norihiro Kato
+- Matthias B Schulze
+- Giorgia Girotto
+- Bettina Jung
+- Carsten A Böger
+- Peter K Joshi
+- David A Bennett
+- Philip L De Jager
+- Xiangfeng Lu
+- Vasiliki Mamakou
+- Morris Brown
+- Mark J Caulfield
+- Patricia B Munroe
+- Xiuqing Guo
+- Marina Ciullo
+- Jost B Jonas
+- Nilesh J Samani
+- Jaakko Kaprio
+- Päivi Pajukanta
+- Linda S Adair
+- Sonny Augustin Bechayda
+- H Janaka de Silva
+- Ananda R Wickremasinghe
+- Ronald M Krauss
+- Jer-Yuarn Wu
+- Wei Zheng
+- Anneke I den Hollander
+- Dwaipayan Bharadwaj
+- Adolfo Correa
+- James G Wilson
+- Lars Lind
+- Chew-Kiat Heng
+- Amanda E Nelson
+- Yvonne M Golightly
+- James F Wilson
+- Brenda Penninx
+- Hyung-Lae Kim
+- John Attia
+- Rodney J Scott
+- D C Rao
+- Donna K Arnett
+- Mark Walker
+- Heikki A Koistinen
+- Giriraj R Chandak
+- Chittaranjan S Yajnik
+- Josep M Mercader
+- Teresa Tusié-Luna
+- Carlos A Aguilar-Salinas
+- Clicerio Gonzalez Villalpando
+- Lorena Orozco
+- Myriam Fornage
+- E Shyong Tai
+- Rob M van Dam
+- Terho Lehtimäki
+- Nish Chaturvedi
+- Mitsuhiro Yokota
+- Jianjun Liu
+- Dermot F Reilly
+- Amy Jayne McKnight
+- Frank Kee
+- Karl-Heinz Jöckel
+- Mark I McCarthy
+- Colin N A Palmer
+- Veronique Vitart
+- Caroline Hayward
+- Eleanor Simonsick
+- Cornelia M van Duijn
+- Fan Lu
+- Jia Qu
+- Haretsugu Hishigaki
+- Xu Lin
+- Winfried März
+- Esteban J Parra
+- Miguel Cruz
+- Vilmundur Gudnason
+- Jean-Claude Tardif
+- Guillaume Lettre
+- Leen M 't Hart
+- Petra J M Elders
+- Scott M Damrauer
+- Meena Kumari
+- Mika Kivimaki
+- Pim van der Harst
+- Tim D Spector
+- Ruth J F Loos
+- Michael A Province
+- Bruce M Psaty
+- Ivan Brandslund
+- Peter P Pramstaller
+- Kaare Christensen
+- Samuli Ripatti
+- Elisabeth Widén
+- Hakon Hakonarson
+- Struan F A Grant
+- Lambertus A L M Kiemeney
+- Jacqueline de Graaf
+- Markus Loeffler
+- Florian Kronenberg
+- Dongfeng Gu
+- Jeanette Erdmann
+- Heribert Schunkert
+- Paul W Franks
+- Allan Linneberg
+- J Wouter Jukema
+- Amit V Khera
+- Minna Männikkö
+- Marjo-Riitta Jarvelin
+- Zoltan Kutalik
+- Francesco Cucca
+- Dennis O Mook-Kanamori
+- Ko Willems van Dijk
+- Hugh Watkins
+- David P Strachan
+- Niels Grarup
+- Peter Sever
+- Neil Poulter
+- Jerome I Rotter
+- Thomas M Dantoft
+- Fredrik Karpe
+- Matt J Neville
+- Nicholas J Timpson
+- Ching-Yu Cheng
+- Tien-Yin Wong
+- Chiea Chuen Khor
+- Charumathi Sabanayagam
+- Annette Peters
+- Christian Gieger
+- Andrew T Hattersley
+- Nancy L Pedersen
+- Patrik K E Magnusson
+- Dorret I Boomsma
+- Eco J C de Geus
+- L Adrienne Cupples
+- Joyce B J van Meurs
+- Mohsen Ghanbari
+- Penny Gordon-Larsen
+- Wei Huang
+- Young Jin Kim
+- Yasuharu Tabara
+- Nicholas J Wareham
+- Claudia Langenberg
+- Eleftheria Zeggini
+- Johanna Kuusisto
+- Markku Laakso
+- Erik Ingelsson
+- Goncalo Abecasis
+- John C Chambers
+- Jaspal S Kooner
+- Paul S de Vries
+- Alanna C Morrison
+- Kari E North
+- Martha Daviglus
+- Peter Kraft
+- Nicholas G Martin
+- John B Whitfield
+- Shahid Abbas
+- Danish Saleheen
+- Robin G Walters
+- Michael V Holmes
+- Corri Black
+- Blair H Smith
+- Anne E Justice
+- Aris Baras
+- Julie E Buring
+- Paul M Ridker
+- Daniel I Chasman
+- Charles Kooperberg
+- Wei-Qi Wei
+- Gail P Jarvik
+- Bahram Namjou
+- M Geoffrey Hayes
+- Marylyn D Ritchie
+- Pekka Jousilahti
+- Veikko Salomaa
+- Kristian Hveem
+- Bjørn Olav Åsvold
+- Michiaki Kubo
+- Yoichiro Kamatani
+- Yukinori Okada
+- Yoshinori Murakami
+- Unnur Thorsteinsdottir
+- Kari Stefansson
+- Yuk-Lam Ho
+- Julie A Lynch
+- Daniel J Rader
+- Philip S Tsao
+- Kyong-Mi Chang
+- Kelly Cho
+- Christopher J O'Donnell
+- John M Gaziano
+- Peter Wilson
+- Charles N Rotimi
+- Scott Hazelhurst
+- Michèle Ramsay
+- Richard C Trembath
+- David A van Heel
+- Gen Tamiya
+- Masayuki Yamamoto
+- Bong-Jo Kim
+- Karen L Mohlke
+- Timothy M Frayling
+- Joel N Hirschhorn
+- Sekar Kathiresan
+- VA Million Veteran Program
+- Global Lipids Genetics Consortium*
+- Michael Boehnke
+- Pradeep Natarajan
+- Gina M Peloso
+- Christopher D Brown
+- Andrew P Morris
+- Themistocles L Assimes
+- Panos Deloukas
+- Yan V Sun
+- Cristen J Willer
+tags: []
+categories: []
+date: '2021-12-01'
+lastmod: 2022-01-11T15:28:38+01:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-01-11T14:28:38.041182Z'
+publication_types:
+- '2'
+abstract: Increased blood lipid levels are heritable risk factors of cardiovascular
+  disease with varied prevalence worldwide owing to different dietary patterns and
+  medication use1. Despite advances in prevention and treatment, in particular through
+  reducing low-density lipoprotein cholesterol levels2, heart disease remains the
+  leading cause of death worldwide3. Genome-wideassociation studies (GWAS) of blood
+  lipid levels have led to important biological and clinical insights, as well as
+  new drug targets, for cardiovascular disease. However, most previous GWAS4-23 have
+  been conducted in European ancestry populations and may have missed genetic variants
+  that contribute to lipid-level variation in other ancestry groups. These include
+  differences in allele frequencies, effect sizes and linkage-disequilibrium patterns24.
+  Here we conduct a multi-ancestry, genome-wide genetic discovery meta-analysis of
+  lipid levels in approximately 1.65 million individuals, including 350,000 of non-European
+  ancestries. We quantify the gain in studying non-European ancestries and provide
+  evidence to support the expansion of recruitment of additional ancestries, even
+  with relatively small sample sizes. We find that increasing diversity rather than
+  studying additional individuals of European ancestry results in substantial improvements
+  in fine-mapping functional variants and portability of polygenic prediction (evaluated
+  in approximately 295,000 individuals from 7 ancestry groupings). Modest gains in
+  the number of discovered loci and ancestry-specific variants were also achieved.
+  As GWAS expand emphasis beyond the identification of genes and fundamental biology
+  towards the use of genetic variants for preventive and precision medicine25, we
+  anticipate that increased diversity of participants will lead to more accurate and
+  equitable26 application of polygenic scores in clinical practice.
+publication: '*Nature*'
+---

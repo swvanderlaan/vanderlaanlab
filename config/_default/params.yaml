@@ -12,31 +12,43 @@ font_size: L
 
 # SEO
 
+# Website type
+#   Improve how search engines understand your site.
+#   For personal sites, choose "Person".
+#   For organizations and projects, choose from https://schema.org/Organization#subtypes
+#   E.g. Person, Organization, LocalBusiness, Project, EducationalOrganization
 site_type: Organization
+
+# Local business type (optional)
+# If you entered "LocalBusiness" above, choose the type of business from https://schema.org/LocalBusiness#subtypes
 local_business_type: ''
-org_name: ''
-description: My research group description.
-twitter: ''
+
+# Organization name (optional)
+org_name: 'Van der Laan & Science'
+
+# Description for social sharing and search engines. If undefined, superuser role is used in place.
+description: The Van der Laan Lab has been a center for the research of atherosclerotic genetics, teaching, and practice since its founding in 2016.
+
+twitter: 'swvanderlaan'
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: s.w.vanderlaan-2@umcutrecht.nl
+phone: +31 (0)88 756 76 96
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Heidelberglaan 100
+  city: Utrecht
+  region:
+  postcode: '3584 CX'
+  country: the Netherlands
+  country_code: NL
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '52.086567'
+  longitude: '5.1781403'
+directions:
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
-appointment_url: 'https://calendly.com'
+  - 'Everyday of the week; or email for appointment.'
+appointment_url: 'https://calendly.com/swvanderlaan'
 contact_links:
 #  - icon: comments
 #    icon_pack: fas

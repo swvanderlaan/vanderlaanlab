@@ -1,0 +1,482 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Associations of autozygosity with a broad range of human phenotypes
+subtitle: ''
+summary: ''
+authors:
+- David W Clark
+- Yukinori Okada
+- Kristjan H S Moore
+- Dan Mason
+- Nicola Pirastu
+- Ilaria Gandin
+- Hannele Mattsson
+- Catriona L K Barnes
+- Kuang Lin
+- Jing Hua Zhao
+- Patrick Deelen
+- Rebecca Rohde
+- Claudia Schurmann
+- Xiuqing Guo
+- Franco Giulianini
+- Weihua Zhang
+- Carolina Medina-Gomez
+- Robert Karlsson
+- Yanchun Bao
+- Traci M Bartz
+- Clemens Baumbach
+- Ginevra Biino
+- Matthew J Bixley
+- Marco Brumat
+- Jin-Fang Chai
+- Tanguy Corre
+- Diana L Cousminer
+- Annelot M Dekker
+- David A Eccles
+- Kristel R van Eijk
+- Christian Fuchsberger
+- He Gao
+- Marine Germain
+- Scott D Gordon
+- Hugoline G de Haan
+- Sarah E Harris
+- Edith Hofer
+- Alicia Huerta-Chagoya
+- Catherine Igartua
+- Iris E Jansen
+- Yucheng Jia
+- Tim Kacprowski
+- Torgny Karlsson
+- Marcus E Kleber
+- Shengchao Alfred Li
+- Ruifang Li-Gao
+- Anubha Mahajan
+- Koichi Matsuda
+- Karina Meidtner
+- Weihua Meng
+- May E Montasser
+- Peter J van der Most
+- Matthias Munz
+- Teresa Nutile
+- Teemu Palviainen
+- Gauri Prasad
+- Rashmi B Prasad
+- Tallapragada Divya Sri Priyanka
+- Federica Rizzi
+- Erika Salvi
+- Bishwa R Sapkota
+- Daniel Shriner
+- Line Skotte
+- Melissa C Smart
+- Albert Vernon Smith
+- Ashley van der Spek
+- Cassandra N Spracklen
+- Rona J Strawbridge
+- Salman M Tajuddin
+- Stella Trompet
+- Constance Turman
+- Niek Verweij
+- Clara Viberti
+- Lihua Wang
+- Helen R Warren
+- Robyn E Wootton
+- Lisa R Yanek
+- Jie Yao
+- Noha A Yousri
+- Wei Zhao
+- Adebowale A Adeyemo
+- Saima Afaq
+- Carlos Alberto Aguilar-Salinas
+- Masato Akiyama
+- Matthew L Albert
+- Matthew A Allison
+- Maris Alver
+- Tin Aung
+- Fereidoun Azizi
+- Amy R Bentley
+- Heiner Boeing
+- Eric Boerwinkle
+- Judith B Borja
+- Gert J de Borst
+- Erwin P Bottinger
+- Linda Broer
+- Harry Campbell
+- Stephen Chanock
+- Miao-Li Chee
+- Guanjie Chen
+- Yii-Der I Chen
+- Zhengming Chen
+- Yen-Feng Chiu
+- Massimiliano Cocca
+- Francis S Collins
+- Maria Pina Concas
+- Janie Corley
+- Giovanni Cugliari
+- Rob M van Dam
+- Anna Damulina
+- Maryam S Daneshpour
+- Felix R Day
+- Graciela E Delgado
+- Klodian Dhana
+- Alexander S F Doney
+- Marcus Dörr
+- Ayo P Doumatey
+- Nduna Dzimiri
+- S Sunna Ebenesersdóttir
+- Joshua Elliott
+- Paul Elliott
+- Ralf Ewert
+- Janine F Felix
+- Krista Fischer
+- Barry I Freedman
+- Giorgia Girotto
+- Anuj Goel
+- Martin Gögele
+- Mark O Goodarzi
+- Mariaelisa Graff
+- Einat Granot-Hershkovitz
+- Francine Grodstein
+- Simonetta Guarrera
+- Daniel F Gudbjartsson
+- Kamran Guity
+- Bjarni Gunnarsson
+- Yu Guo
+- Saskia P Hagenaars
+- Christopher A Haiman
+- Avner Halevy
+- Tamara B Harris
+- Mehdi Hedayati
+- David A van Heel
+- Makoto Hirata
+- Imo Höfer
+- Chao Agnes Hsiung
+- Jinyan Huang
+- Yi-Jen Hung
+- M Arfan Ikram
+- Anuradha Jagadeesan
+- Pekka Jousilahti
+- Yoichiro Kamatani
+- Masahiro Kanai
+- Nicola D Kerrison
+- Thorsten Kessler
+- Kay-Tee Khaw
+- Chiea Chuen Khor
+- Dominique P V de Kleijn
+- Woon-Puay Koh
+- Ivana Kolcic
+- Peter Kraft
+- Bernhard K Krämer
+- Zoltán Kutalik
+- Johanna Kuusisto
+- Claudia Langenberg
+- Lenore J Launer
+- Deborah A Lawlor
+- I-Te Lee
+- Wen-Jane Lee
+- Markus M Lerch
+- Liming Li
+- Jianjun Liu
+- Marie Loh
+- Stephanie J London
+- Stephanie Loomis
+- Yingchang Lu
+- Jian'an Luan
+- Reedik Mägi
+- Ani W Manichaikul
+- Paolo Manunta
+- Gı́sli Másson
+- Nana Matoba
+- Xue W Mei
+- Christa Meisinger
+- Thomas Meitinger
+- Massimo Mezzavilla
+- Lili Milani
+- Iona Y Millwood
+- Yukihide Momozawa
+- Amy Moore
+- Pierre-Emmanuel Morange
+- Hortensia Moreno-Mac\ás
+- Trevor A Mori
+- Alanna C Morrison
+- Taulant Muka
+- Yoshinori Murakami
+- Alison D Murray
+- Renée de Mutsert
+- Josyf C Mychaleckyj
+- Mike A Nalls
+- Matthias Nauck
+- Matt J Neville
+- Ilja M Nolte
+- Ken K Ong
+- Lorena Orozco
+- Sandosh Padmanabhan
+- Gunnar Pálsson
+- James S Pankow
+- Cristian Pattaro
+- Alison Pattie
+- Ozren Polasek
+- Neil Poulter
+- Peter P Pramstaller
+- Lluis Quintana-Murci
+- Katri Räikkönen
+- Sarju Ralhan
+- Dabeeru C Rao
+- Wouter van Rheenen
+- Stephen S Rich
+- Paul M Ridker
+- Cornelius A Rietveld
+- Antonietta Robino
+- Frank J A van Rooij
+- Daniela Ruggiero
+- Yasaman Saba
+- Charumathi Sabanayagam
+- Maria Sabater-Lleal
+- Cinzia Felicita Sala
+- Veikko Salomaa
+- Kevin Sandow
+- Helena Schmidt
+- Laura J Scott
+- William R Scott
+- Bahareh Sedaghati-Khayat
+- Bengt Sennblad
+- Jessica van Setten
+- Peter J Sever
+- Wayne H-H Sheu
+- Yuan Shi
+- Smeeta Shrestha
+- Sharvari Rahul Shukla
+- Jon K Sigurdsson
+- Timo Tonis Sikka
+- Jai Rup Singh
+- Blair H Smith
+- Alena Stančáková
+- Alice Stanton
+- John M Starr
+- Lilja Stefansdottir
+- Leon Straker
+- Patrick Sulem
+- Gardar Sveinbjornsson
+- Morris A Swertz
+- Adele M Taylor
+- Kent D Taylor
+- Natalie Terzikhan
+- Yih-Chung Tham
+- Gudmar Thorleifsson
+- Unnur Thorsteinsdottir
+- Annika Tillander
+- Russell P Tracy
+- Teresa Tusié-Luna
+- Ioanna Tzoulaki
+- Simona Vaccargiu
+- Jagadish Vangipurapu
+- Jan H Veldink
+- Veronique Vitart
+- Uwe Völker
+- Eero Vuoksimaa
+- Salma M Wakil
+- Melanie Waldenberger
+- Gurpreet S Wander
+- Ya Xing Wang
+- Nicholas J Wareham
+- Sarah Wild
+- Chittaranjan S Yajnik
+- Jian-Min Yuan
+- Lingyao Zeng
+- Liang Zhang
+- Jie Zhou
+- Najaf Amin
+- Folkert W Asselbergs
+- Stephan J L Bakker
+- Diane M Becker
+- Benjamin Lehne
+- David A Bennett
+- Leonard H van den Berg
+- Sonja I Berndt
+- Dwaipayan Bharadwaj
+- Lawrence F Bielak
+- Murielle Bochud
+- Mike Boehnke
+- Claude Bouchard
+- Jonathan P Bradfield
+- Jennifer A Brody
+- Archie Campbell
+- Shai Carmi
+- Mark J Caulfield
+- David Cesarini
+- John C Chambers
+- Giriraj Ratan Chandak
+- Ching-Yu Cheng
+- Marina Ciullo
+- Marilyn Cornelis
+- Daniele Cusi
+- George Davey Smith
+- Ian J Deary
+- Rajkumar Dorajoo
+- Cornelia M van Duijn
+- David Ellinghaus
+- Jeanette Erdmann
+- Johan G Eriksson
+- Evangelos Evangelou
+- Michele K Evans
+- Jessica D Faul
+- Bjarke Feenstra
+- Mary Feitosa
+- Sylvain Foisy
+- Andre Franke
+- Yechiel Friedlander
+- Paolo Gasparini
+- Christian Gieger
+- Clicerio Gonzalez
+- Philippe Goyette
+- Struan F A Grant
+- Lyn R Griffiths
+- Leif Groop
+- Vilmundur Gudnason
+- Ulf Gyllensten
+- Hakon Hakonarson
+- Anders Hamsten
+- Pim van der Harst
+- Chew-Kiat Heng
+- Andrew A Hicks
+- Hagit Hochner
+- Heikki Huikuri
+- Steven C Hunt
+- Vincent W V Jaddoe
+- Philip L De Jager
+- Magnus Johannesson
+- Åsa Johansson
+- Jost B Jonas
+- J Wouter Jukema
+- Juhani Junttila
+- Jaakko Kaprio
+- Sharon L R Kardia
+- Fredrik Karpe
+- Meena Kumari
+- Markku Laakso
+- Sander W van der Laan
+- Jari Lahti
+- Matthias Laudes
+- Rodney A Lea
+- Wolfgang Lieb
+- Thomas Lumley
+- Nicholas G Martin
+- Winfried März
+- Giuseppe Matullo
+- Mark I McCarthy
+- Sarah E Medland
+- Tony R Merriman
+- Andres Metspalu
+- Brian F Meyer
+- Karen L Mohlke
+- Grant W Montgomery
+- Dennis Mook-Kanamori
+- Patricia B Munroe
+- Kari E North
+- Dale R Nyholt
+- Jeffery R O'connell
+- Carole Ober
+- Albertine J Oldehinkel
+- Walter Palmas
+- Colin Palmer
+- Gerard G Pasterkamp
+- Etienne Patin
+- Craig E Pennell
+- Louis Perusse
+- Patricia A Peyser
+- Mario Pirastu
+- Tinca J C Polderman
+- David J Porteous
+- Danielle Posthuma
+- Bruce M Psaty
+- John D Rioux
+- Fernando Rivadeneira
+- Charles Rotimi
+- Jerome I Rotter
+- Igor Rudan
+- Hester M Den Ruijter
+- Dharambir K Sanghera
+- Naveed Sattar
+- Reinhold Schmidt
+- Matthias B Schulze
+- Heribert Schunkert
+- Robert A Scott
+- Alan R Shuldiner
+- Xueling Sim
+- Neil Small
+- Jennifer A Smith
+- Nona Sotoodehnia
+- E-Shyong Tai
+- Alexander Teumer
+- Nicholas J Timpson
+- Daniela Toniolo
+- David-Alexandre Tregouet
+- Tiinamaija Tuomi
+- Peter Vollenweider
+- Carol A Wang
+- David R Weir
+- John B Whitfield
+- Cisca Wijmenga
+- Tien-Yin Wong
+- John Wright
+- Jingyun Yang
+- Lei Yu
+- Babette S Zemel
+- Alan B Zonderman
+- Markus Perola
+- Patrik K E Magnusson
+- André G Uitterlinden
+- Jaspal S Kooner
+- Daniel I Chasman
+- Ruth J F Loos
+- Nora Franceschini
+- Lude Franke
+- Chris S Haley
+- Caroline Hayward
+- Robin G Walters
+- John R B Perry
+- Tōnu Esko
+- Agnar Helgason
+- Kari Stefansson
+- Peter K Joshi
+- Michiaki Kubo
+- James F Wilson
+tags: []
+categories: []
+date: '2019-10-01'
+lastmod: 2022-01-11T15:28:34+01:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-01-11T14:28:34.002810Z'
+publication_types:
+- '2'
+abstract: 'In many species, the offspring of related parents suffer reduced reproductive
+  success, a phenomenon known as inbreeding depression. In humans, the importance
+  of this effect has remained unclear, partly because reproduction between close relatives
+  is both rare and frequently associated with confounding social factors. Here, using
+  genomic inbreeding coefficients (FROH) for >1.4 million individuals, we show that
+  FROH is significantly associated (p < 0.0005) with apparently deleterious changes
+  in 32 out of 100 traits analysed. These changes are associated with runs of homozygosity
+  (ROH), but not with common variant homozygosity, suggesting that genetic variants
+  associated with inbreeding depression are predominantly rare. The effect on fertility
+  is striking: FROH equivalent to the offspring of first cousins is associated with
+  a 55% decrease [95% CI 44-66%] in the odds of having children. Finally, the effects
+  of FROH are confirmed within full-sibling pairs, where the variation in FROH is
+  independent of all environmental confounding.'
+publication: '*Nat. Commun.*'
+---
