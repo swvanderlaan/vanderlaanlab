@@ -1,42 +1,37 @@
-# Wowchemy's Research Group Template for [Hugo](https://github.com/gohugoio/hugo)
+README
+==============
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+This readme will contain a log of changes as they are made in the future for our lab [page](https://priceless-yalow-22b04f.netlify.app): **Van der Laan Lab**".
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 5 minutes, or [view the showcase](https://wowchemy.com/user-stories/).
+## Log
+* **2017-10-02** Initial setup.
+* **2017-10-03** Added banners. Wrote a blog on setting up a personal site using `hugo` and `git`. Changed the license.
+* **2017-10-04** Added more favorite icons. Changed the license to a `markdown` format.
+* **2018-03-20** Changes to my biography - it's more 'SMART' now.
+* **2019-11-21** Updates to my biography.
+* **2022-01-13** Major design and page-overhaul
 
-_[**Wowchemy**](https://wowchemy.com) makes it easy to create a beautiful website for free. Edit your site in Markdown, Jupyter, or RStudio (via Blogdown), generate it with Hugo, and deploy with GitHub or Netlify. Customize anything on your site with widgets, themes, and language packs._
+## To-do-list
+- [ ] fix projects showcase on main page
+- [ ] get github linked to a domain, or rather domain to github.
+- [ ] fix projects page
+- [ ] add more posts (OS, old ones)
+- [ ] add other feature-images for all the events
+- [ ] update grants page
+- [ ] add text on functional genomics
+- [ ] add text on other work
+- [ ] get a twitterfeed plugin/method;
+- [x] get a google map plugin in place;
+- [x] get a form implemented;
 
-- 👉 [**Get Started**](https://wowchemy.com/templates/)
-- 📚 [View the **documentation**](https://wowchemy.com/docs/)
-- 💬 [Chat with the **Wowchemy community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- 🐦 Twitter: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=(%23MadeWithWowchemy%20OR%20%23MadeWithAcademic)&src=typed_query)
-- 💡 [Request a **feature** or report a **bug** for _Wowchemy_](https://github.com/wowchemy/wowchemy-hugo-modules/issues)
-- ⬆️ **Updating Wowchemy?** View the [Update Guide](https://wowchemy.com/docs/update/) and [Release Notes](https://github.com/wowchemy/wowchemy-hugo-modules/releases)
 
-## Crowd-funded open-source software
+This is based on [**Wowchemy**](https://wowchemy.com)'s Research Group Template for [Hugo](https://github.com/gohugoio/hugo).
 
-To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.
 
-### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/sponsor/)
+----- 
+### License
 
-## Ecosystem
+&copy; Copyright. 1979-2022 [Sander W. van der Laan](mailto:s.w.vanderlaan-2@umcutrecht.nl) | [https://swvanderlaan.github.io](https://swvanderlaan.github.io).
 
-* **[Hugo Academic CLI](https://github.com/wowchemy/hugo-academic-cli/):** Automatically import publications from BibTeX
+Released under [the MIT license](http://opensource.org/licenses/MIT).
 
-[![Screenshot](./preview.png)](https://wowchemy.com/templates/)
-
-## Demo Credits
-
-Please replace the demo images with your own.
-
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
-
-[![Analytics](https://ga-beacon.appspot.com/UA-78646709-2/starter-research-group/readme?pixel)](https://github.com/igrigorik/ga-beacon)
