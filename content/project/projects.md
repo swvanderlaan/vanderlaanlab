@@ -2,6 +2,15 @@
 widget: portfolio
 headless: true  # This file represents a page section.
 
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 30
+
 # ... Put Your Section Options Here (title etc.) ...
 
 content:
@@ -35,7 +44,7 @@ content:
       
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
-  columns: '2'
+  columns: '1'
   # Toggle between the various page layout types.
   #   1 = List
   #   2 = Compact  

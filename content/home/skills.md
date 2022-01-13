@@ -1,7 +1,14 @@
 ---
 # Documentation: https://wowchemy.com/docs/widget/featurette/
 widget: featurette
-headless: true  # This file represents a page section.
+# Activate this widget? true/false
+active: true
+
+# This file represents a page section.
+headless: true
+
+# Order that this section appears on the page.
+weight: 30
 
 # ... Put Your Section Options Here (title etc.) ...
 
