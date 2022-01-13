@@ -1,4 +1,5 @@
 ---
+# Documentation: https://wowchemy.com/docs/widget/portfolio/
 widget: portfolio
 headless: true  # This file represents a page section.
 

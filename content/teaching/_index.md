@@ -13,7 +13,7 @@ header:
   image: "headers/banner_thesis_v2.png"
 ---
 
-I am one of the lecturers for the following courses and years:
+Sander and others in the lab have been one of the lecturers for the following courses and years:
 
 * **Cardiovascular Epidemiology [EP20]**: Guest lecturer on cardiovascular genetic epidemiology (2020)  | MSc Epidemiology | [Erasmus MC - Netherlands Institute for Health Sciences](https://www.nihes.com/course/ep20_cardiovascular_epidemiology/)
 * **BMW32416**: *Vascular Biology* (since 2010) | BSc Biomedical Sciences | [University of Utrecht](https://students.uu.nl/en/node/641/exchange-students/course-list-biomedical-sciences)

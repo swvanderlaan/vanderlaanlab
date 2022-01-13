@@ -11,7 +11,7 @@ design:
   css_style: null
   css_class: null
   background:
-    image: banner_man_standing_dna.png
+    image: # banner_man_standing_dna.png
 hero_media: images/man_standing_dna_shutterstock_251639014_squared.png
 ---
 **Since its inception in 2016 our lab has focused on the genetics of atherosclerosis and plaque morphology.**
