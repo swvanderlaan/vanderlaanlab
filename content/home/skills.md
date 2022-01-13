@@ -30,12 +30,8 @@ feature:
 #    description: 80%
   - icon: dna
     icon_pack: fas
-    name: Genetics
+    name: Genetics & functional genomics
 #    description: 80%
-  - icon: disease
-    icon_pack: fas
-    name: Functional genomics
-#    description: 70%
   - icon: microscope
     icon_pack: fas
     name: Histology
