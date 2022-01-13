@@ -62,7 +62,7 @@ education:
     - course: Good Clinical Practice for trial personnel
       institution: UMC Utrecht
       year: 2014
-    - course: Statistics: Making Sense of Data
+    - course: Statistics Making Sense of Data
       institution: Coursera
       year: 2013
     - course: Thrombosis & Haemostasis
