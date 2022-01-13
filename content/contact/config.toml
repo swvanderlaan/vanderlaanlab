@@ -1,0 +1,6 @@
+# Inside config.toml
+[params]
+typeformid = "VttGoqGe" # Required
+typeformuser = "swvanderlaan" # Optional
+typeformwidth = "100%" # Optional
+typeformheight = "400px" # Optional
