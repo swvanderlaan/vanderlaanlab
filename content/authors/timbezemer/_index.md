@@ -1,6 +1,6 @@
 ---
 title: Tim Bezemer
-role: BSc and MSc intern
+role: BSc and MSc intern & Research assistant bioinformatics
 avatar_filename: avatar_timbezemer.jpg
 organizations:
   - name: University Medical Center Utrecht
@@ -39,4 +39,4 @@ email: ""
 user_groups:
   - "Alumni"
 ---
-Tim joined our lab as an intern to perform genome-wide association studies of atherosclerotic endophenotypes. He now works as a data scientist at Always Be Learning.
+Tim joined our lab as an intern to perform genome-wide association studies of atherosclerotic endophenotypes and worked as a research assistant in bioinformatics, among others working on the [GWASToolKit](https://github.com/swvanderlaan/GWASToolKit). He now works as a data scientist at Always Be Learning.

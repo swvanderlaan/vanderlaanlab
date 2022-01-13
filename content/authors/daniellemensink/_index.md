@@ -1,7 +1,7 @@
 ---
 title: Daniëlle Mensink
 role: MSc intern
-avatar_filename: avataar_daniellemensink.jpeg
+avatar_filename: avatar_daniellemensink.jpeg
 organizations:
   - name: Aon
     url: ""
