@@ -1,25 +1,25 @@
 ---
 title: Eleanora Sardella
 role: MSc intern
-avatar_filename: avatar_female.png
+avatar_filename: avatar_eleonorasardella.jpeg
 organizations:
   - name: Aon
     url: ""
 superuser: false
 authors:
   - eleonorasardella
-bio: My focus included computing and programmable matter.
+bio: My focus included the effects of family history on atherosclerotic plaque morphology.
 interests:
   - Atherosclerosis
-  - Computational Sciences
-  - Coding
+  - Meta-analysis
+  - Family history
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:test@mail.org
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/eleonora-sardella-98929962/
   - icon: github
     icon_pack: fab
     link: https://github.com/
@@ -32,4 +32,4 @@ email: ""
 user_groups:
   - "Alumni"
 ---
-[text]
+Eleonora work as an intern to study literature on the role of family history in advanced atherosclerotic patients on plaque morphology.

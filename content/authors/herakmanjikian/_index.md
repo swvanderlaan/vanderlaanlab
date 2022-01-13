@@ -8,28 +8,31 @@ organizations:
 superuser: false
 authors:
   - herakmanjikian
-bio: My focus included computing and programmable matter.
+bio: My focus included in vitro studying GWAS loci.
 interests:
   - Atherosclerosis
-  - Computational Sciences
-  - Coding
+  - In vitro work
+  - Cell assays
 social:
   - icon: envelope
     icon_pack: fas
     link: mailto:test@mail.org
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/herak-manjikian/
   - icon: github
     icon_pack: fab
     link: https://github.com/
 education:
   courses:
-    - course: BSc in Bioinformatics
-      institution: Hogeschool van Arnhem en Nijmegen
-      year: 2019
+    - course: MSc in Biomedical Sciences
+      institution: Utrecht University
+      year: current
+    - course: BSc in Biology
+      institution: American University of Sharjah
+      year: 2018
 email: ""
 user_groups:
   - "Alumni"
 ---
-[text]
+Herak joined our lab in 2020 to perform _in vitro_ endothelial cell assays of a GWAS locus associated with myocardial infarction.
