@@ -107,7 +107,7 @@ authors:
 - L Adrienne Cupples
 - Cornelia M van Duijn
 tags:
-- Complex traits; Epidemiology; Genetics; Genome-wide; circulating lipid levels
+- ["complex traits", "genetic epidemiology", "genetics", "GWAS", "circulating lipid levels"]
 categories: []
 date: '2016-07-01'
 lastmod: 2022-01-11T15:28:30+01:00
@@ -127,7 +127,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["genetics"]
 publishDate: '2022-01-11T14:28:30.686773Z'
 publication_types:
 - '2'

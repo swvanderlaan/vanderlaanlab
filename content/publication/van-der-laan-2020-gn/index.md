@@ -8,7 +8,7 @@ authors:
 - Sander W van der Laan
 - Folkert W Asselbergs
 tags:
-- Editorials; atrial fibrillation; sample size; systems biology; transcriptome
+- ["editorials", "atrial fibrillation", "genetics", "systems biology", "functional genomics"]
 categories: []
 date: '2020-01-01'
 lastmod: 2022-01-11T15:28:37+01:00
@@ -28,7 +28,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["genetics", "functional-genomics"]
 publishDate: '2022-01-11T14:28:37.307938Z'
 publication_types:
 - '2'

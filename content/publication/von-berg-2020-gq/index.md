@@ -15,11 +15,11 @@ authors:
 - Bradford B Worrall
 - Jeroen de Ridder
 - Sara L Pulit
-tags: []
+tags: ["ischemic stroke", "genetics"]
 categories: []
 date: '2020-07-01'
 lastmod: 2022-01-11T15:28:34+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -35,7 +35,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["genetics"]
 publishDate: '2022-01-11T14:28:34.192696Z'
 publication_types:
 - '2'

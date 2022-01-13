@@ -13,7 +13,7 @@ authors:
 - Dominique P V de Kleijn
 - Gert J de Borst
 - Sander W van der Laan
-tags: []
+tags: ["abdominal aortic aneurysm", "polygenic score", "genetics", "histology"]
 categories: []
 date: '2019-12-01'
 lastmod: 2022-01-11T15:28:34+01:00
@@ -33,7 +33,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["genetics", "functional-genomics"]
 publishDate: '2022-01-11T14:28:34.812421Z'
 publication_types:
 - '2'

@@ -21,7 +21,7 @@ authors:
 - Paul I W de Bakker
 - Gerard Pasterkamp
 tags:
-- ALOX5; Atherosclerosis; Eicosanoids; Plaque; Single-nucleotide polymorphism
+- ["ALOX5", "atherosclerosis", "eicosanoids", "plaque" "single-nucleotide polymorphism", "genetics", "histology"]
 categories: []
 date: '2015-04-01'
 lastmod: 2022-01-11T15:28:29+01:00
@@ -41,7 +41,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["genetics", "functional-genomics"]
 publishDate: '2022-01-11T14:28:29.739900Z'
 publication_types:
 - '2'

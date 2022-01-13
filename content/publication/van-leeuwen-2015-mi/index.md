@@ -96,7 +96,7 @@ authors:
 - Eric Boerwinkle
 - L Adrienne Cupples
 - Cornelia van Duijn
-tags: []
+tags: ["complex traits", "genetic epidemiology", "genetics", "GWAS", "circulating lipid levels"]
 categories: []
 date: '2015-11-01'
 lastmod: 2022-01-11T15:28:35+01:00
@@ -116,7 +116,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["genetics"]
 publishDate: '2022-01-11T14:28:35.127770Z'
 publication_types:
 - '2'

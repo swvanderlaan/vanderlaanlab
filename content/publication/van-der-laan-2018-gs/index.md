@@ -11,7 +11,7 @@ authors:
 - David Stacey
 - Angela M Wood
 - Folkert W Asselbergs
-tags: []
+tags: ["genetics", "post-GWAS", "functional genomics", "reviews"]
 categories: []
 date: '2018-07-01'
 lastmod: 2022-01-11T15:28:33+01:00
@@ -31,7 +31,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["genetics", "functional-genomics"]
 publishDate: '2022-01-11T14:28:33.024043Z'
 publication_types:
 - '2'

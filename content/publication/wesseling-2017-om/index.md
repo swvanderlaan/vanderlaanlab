@@ -21,8 +21,7 @@ authors:
 - Gert J de Borst
 - Gerard Pasterkamp
 tags:
-- Cardiovascular events; Carotid endarterectomy; Inflammation; Kidney function; Plaque
-  composition; Plaque vulnerability
+- ["carotid endarterectomy", "epidemiology", "kidney function", "plaque"]
 categories: []
 date: '2017-11-01'
 lastmod: 2022-01-11T15:28:36+01:00
@@ -42,7 +41,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["other"]
 publishDate: '2022-01-11T14:28:36.068369Z'
 publication_types:
 - '2'

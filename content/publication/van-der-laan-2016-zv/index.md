@@ -78,11 +78,11 @@ authors:
 - Michael V Holmes
 - Folkert W Asselbergs
 tags:
-- coronary heart disease; genetics; heart failure; ischemic stroke
+- ["coronary heart disease", "coronary artery disease", "heart failure", "ischemic stroke", "genetics", "mendelian randomization"]
 categories: []
 date: '2016-08-01'
 lastmod: 2022-01-11T15:28:31+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -98,7 +98,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["genetics"]
 publishDate: '2022-01-11T14:28:31.326132Z'
 publication_types:
 - '2'

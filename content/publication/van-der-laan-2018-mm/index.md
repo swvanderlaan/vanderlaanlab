@@ -29,9 +29,7 @@ authors:
 - Paul I W de Bakker
 - Gerard Pasterkamp
 tags:
-- atherosclerosis; cardiovascular disease; coronary artery disease; genetic loci;
-  plaque
-- atherosclerotic; quantitative trait loci; stroke
+- ["atherosclerosis", "coronary artery disease", "genetics", "plaque", "ischemic stroke", "quantitative trait loci", "histology"]
 categories: []
 date: '2018-09-01'
 lastmod: 2022-01-11T15:28:33+01:00
@@ -51,7 +49,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["genetics", "functional-genomics"]
 publishDate: '2022-01-11T14:28:33.344543Z'
 publication_types:
 - '2'

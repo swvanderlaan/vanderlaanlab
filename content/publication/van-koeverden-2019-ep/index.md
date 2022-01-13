@@ -15,7 +15,7 @@ authors:
 - Gert J de Borst
 - Gerard Pasterkamp
 - Hester M den Ruijter
-tags: []
+tags: ["carotid endarterectomy", "plaque", "atherosclerosis", "histology", "epidemiology"]
 categories: []
 date: '2019-02-01'
 lastmod: 2022-01-11T15:28:36+01:00
@@ -35,7 +35,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["other"]
 publishDate: '2022-01-11T14:28:36.225167Z'
 publication_types:
 - '2'

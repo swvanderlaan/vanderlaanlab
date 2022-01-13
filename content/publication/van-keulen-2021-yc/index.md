@@ -17,7 +17,7 @@ authors:
 - Gerard Pasterkamp
 - Sander W van der Laan
 tags:
-- LIFR; OSM; OSMR; atherosclerosis; cardiovascular disease; genetics; plaque
+- ["OSMR", "atherosclerosis", "cardiovascular disease", "genetics", "plaque", "histology"]
 categories: []
 date: '2021-04-01'
 lastmod: 2022-01-11T15:28:37+01:00
@@ -37,7 +37,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["genetics", "functional-genomics"]
 publishDate: '2022-01-11T14:28:37.160654Z'
 publication_types:
 - '2'

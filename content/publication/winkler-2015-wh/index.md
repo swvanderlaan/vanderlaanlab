@@ -451,7 +451,7 @@ authors:
 - Ingrid B Borecki
 - Zoltán Kutalik
 - Ruth J F Loos
-tags: []
+tags: ["GWAS", "genetics", "genetic epidemiology"]
 categories: []
 date: '2015-10-01'
 lastmod: 2022-01-11T15:28:30+01:00
@@ -471,7 +471,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["genetics"]
 publishDate: '2022-01-11T14:28:30.361143Z'
 publication_types:
 - '2'

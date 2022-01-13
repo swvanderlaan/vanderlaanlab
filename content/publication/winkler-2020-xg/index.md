@@ -27,11 +27,11 @@ authors:
 - Hendrik B Sager
 - Thorsten Kessler
 tags:
-- Atherosclerosis; Coronary artery disease; Genetics; SVEP1
+- ["atherosclerosis", "coronary artery disease", "genetics", "SVEP1", "histology", "single-cell RNAseq"]
 categories: []
 date: '2020-11-01'
 lastmod: 2022-01-11T15:28:35+01:00
-featured: false
+featured: true
 draft: false
 
 # Featured image
@@ -47,7 +47,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["genetics", "functional-genomics"]
 publishDate: '2022-01-11T14:28:34.978785Z'
 publication_types:
 - '2'

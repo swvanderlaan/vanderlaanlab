@@ -19,9 +19,7 @@ authors:
 - Michiel L Bots
 - Gerard Pasterkamp
 tags:
-- endarterectomy
-- carotid; histology; plaque
-- atherosclerotic; primary prevention
+- ["carotid endarterectomy", "plaque", "atherosclerosis", "histology", "epidemiology"]
 categories: []
 date: '2014-06-01'
 lastmod: 2022-01-11T15:28:35+01:00
@@ -41,7 +39,7 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: []
+projects: ["other"]
 publishDate: '2022-01-11T14:28:35.758636Z'
 publication_types:
 - '2'
