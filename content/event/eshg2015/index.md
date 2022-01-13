@@ -1,37 +1,44 @@
 ---
-title: Example Event
+title: A common variant associated with coronary artery disease increases atheroma size within atherosclerotic plaques of patients with carotid stenosis
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: ESHG 2015
+event_url: https://www.eshg.org/
 
-location: Wowchemy HQ
+location: Glasgow, Scotland
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 
+  city: 
+  region: 
+  postcode: 
+  country: 
 
-summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: A common variant associated with coronary artery disease increases atheroma size within atherosclerotic plaques of patients with carotid stenosis.
+abstract: "
+**S.W. van der Laan**<sup>1</sup>, J. van Setten<sup>1</sup>, H.M. den Ruijter<sup>1</sup>, F.W. Asselbergs<sup>1</sup>, P.I.W. de Bakker<sup>2</sup>, G. Pasterkamp<sup>1</sup></br>
+<sub><sup>1) UMC Utrecht, Utrecht, Netherlands, 2) Program in Medical and Population Genetics, Broad Institute, Cambridge (MA), United States of America.</sub></sup>
+</br></br>
+**Background** To date, genome-wide association studies have identified 2 susceptibility loci for large artery ischemic stroke and 45 loci for coronary artery disease (CAD). We investigated whether these SNPs affected atherosclerotic plaque characteristics in the [Athero-Express Biobank Study (AE)](http://www.atheroexpress.nl) of patients with clinically significant carotid stenosis, from whom plaque specimens have been histologically analyzed.</br></br>
+**Methods** We genotyped 1,439 patients from the AE and imputed missing genotypes using HapMap. We tested the 47 SNPs for association to macrophages numbers, smooth muscle cells (SMCs) numbers, neovascularization, intraplaque hemorrhage (IPH), atheroma size, calcification, and collagen content, using linear or logistic regression, correcting for age, sex, year of surgery, array type, and 10 principal components. We considered a significant association at p < 1.5x10<sup>-4</sup> after Bonferroni correction for the number of variants and phenotypes tested.</br></br>
+**Results** The most significant association was found for rs12539895 (coded allele frequency = 0.75, odds ratio = 1.59 per C allele, p = 9.0x10<sup>-6</sup>) with percentage of atheroma. This direction of effect was such that the same allele increases atheroma size and CAD risk. Other variants were nominally significantly associated with macrophages (rs17609940, p = 0.0457), SMCs (rs11203042, p = 0.0478), IPH (rs11203042, p = 0.0020), and atheroma (rs2023938, p = 0.0331; rs445925, p =0.0082), all with effect directions consistent with their reported effect on CAD.</br></br>
+**Conclusion** Of 47 previously associated variants, one variant (rs12539895) was significantly associated with atheroma size in patients with carotid atherosclerosis. Further research is warranted to better understand underlying mechanisms."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2015-06-06T14:00:00Z"
+date_end: "2015-06-06T14:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2015-06-06T14:00:00Z"
 
-authors: []
+authors: [admin]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 'Image credit: [**Bereziuk Serhii**](https://www.shutterstock.com/g/bereziuk%20serhii)'
   focal_point: Right
 
 url_code: ""
@@ -51,13 +58,6 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: ["genetics"]
 ---
 
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.

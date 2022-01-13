@@ -4,7 +4,7 @@ title = "Cystatin C and cardiovascular disease: a Mendelian randomization study"
 abstract = ""
 abstract_short = ""
 event = "ISA 2015"
-event_url = "https://www.eshg.org/"
+event_url = "https://www.athero.org"
 location = "Amsterdam, the Netherlands"
 
 selected = false
