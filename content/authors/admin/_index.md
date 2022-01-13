@@ -1,15 +1,15 @@
 ---
 title: Sander W. van der Laan
-role: Assistant Professor Cardiovascular Genetics & Open Science
+role: Assistant Professor Cardiovascular Genetics & Open Science, Chair of OSCU, Member YoungSiT
 avatar_filename: avatar_swvanderlaan.jpg
-bio: My academic interests include the cardiovascular genetics, atherosclerosis,
-  and Open Science.
+bio: My academic interests include the cardiovascular genetics, atherosclerosis, Open Science, and Science in Transition.
 interests:
   - Cardiovascular genetics
-  - ischemic stroke genetics
-  - AAA genetics
-  - atherosclerosis
+  - Ischemic stroke
+  - Abdominal aortic aneurysms (AAA)
+  - Carotid and coronary atherosclerosis
   - Open Science
+  - Science in Transition
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,11 +35,42 @@ social:
 organizations:
   - name: University Medical Center Utrecht
     url: https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health
+  - name: Open Science Community Utrecht
+    url: https://openscience-utrecht.com
+  - name: Young Science in Transition
+    url: https://www.umcutrecht.nl/en/young-science-in-transition
 education:
   courses:
+    - course: Bias training for teachers
+      institution: Utrecht University
+      year: 2021
+    - course: University Teaching Qualification
+      institution: Utrecht University
+      year: 2020
+    - course: Supervising PhD Candidates
+      institution: Utrecht University
+      year: 2019
+    - course: Introduction to Genomic Technologies
+      institution: Coursera
+      year: 2017
     - course: PhD in Cardiovascular Genetics
       institution: Utrecht University
       year: 2016
+    - course: Computing for Data Analysis
+      institution: Coursera
+      year: 2014
+    - course: Good Clinical Practice for trial personnel
+      institution: UMC Utrecht
+      year: 2014
+    - course: Statistics: Making Sense of Data
+      institution: Coursera
+      year: 2013
+    - course: Thrombosis & Haemostasis
+      institution: Hartstichting
+      year: 2013
+    - course: Vascular Biology
+      institution: Hartstichting
+      year: 2012
     - course: Masterclass Cardiology
       year: 2011
       institution: Interuniversity Cardiology Institute of the Netherlands (ICIN)
@@ -52,7 +83,7 @@ education:
 email: s.w.vanderlaan-2@umcutrecht.nl
 superuser: true
 user_groups:
-  - "Principal Investigators"
+  - "Principal Investigator"
 highlight_name: true
 ---
 I am an assistant professor in the [Central Diagnostics Laboratory](https://www.umcutrecht.nl/en/Subsites/UMC-Utrecht-Lab/About-us/Laboratory-of-Clinical-Chemistry-Haematology) which is part of the [Circulatory Health Program](https://www.umcutrecht.nl/en/Research/Strategic-themes/Circulatory-Health) at the University Medical Center Utrecht and University of Utrecht. My research interest is focused on the genetic and epigenetic causes of carotid and coronary atherosclerosis underlying *ischemic stroke (IS)* and *coronary artery disease (CAD)*, and their intermediate traits such as *carotid intima media thickness (cIMT)* and *arterial calcification*. 
