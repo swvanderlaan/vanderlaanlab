@@ -30,9 +30,9 @@ tags:
   - glycophorin
   - WSI
 projects:
-  - high-throughput-imaging
+  - ExpressScan
 image:
-  filename: https://media-exp1.licdn.com/dms/image/C4E12AQEDP6GsKUf2yw/article-cover_image-shrink_720_1280/0/1629709599767?e=1647475200&v=beta&t=YS5SQ24k_svR6yxjNMf1XSlJXr7EHMwzng6rI_4HuaQ
+  filename: 1.-expressscan_v2.1.png
   focal_point: Smart
   preview_only: false
 ---
@@ -50,15 +50,15 @@ Cardiovascular diseases #CVD are the leading cause of death in the world; [check
 
 Since [2002](https://doi.org/10.1007/s10564-004-2304-6) we have collected over 3,600 #plaques in the #AtheroExpress. We paraffin-embed, cut, and stain these #plaques for commonly present cells and structures ('phenotypes'), and manually study #plaques through #microscopy 🔬
 
-[![No alt text provided for this image](https://media-exp1.licdn.com/dms/image/C4E12AQEKxYXXXmbToA/article-inline_image-shrink_1500_2232/0/1629710217847?e=1647475200&v=beta&t=dYp0Bl_MvCNszXrVayjgoehz2vMT-8fOHjdhx4PgP64)](http://doi.org/10.1007/s10564-004-2304-6)
+![http://doi.org/10.1007/s10564-004-2304-6](3.-verhoevenban_atheroexpress_2002.png)
 
 In 2010 we [found](https://doi.org/10.1161/CIRCULATIONAHA.109.887497) that intraplaque hemorrhage #IPH associates with secondary outcome after carotid endarterectomy #CEA👇🏽.
 
-* [![No alt text provided for this image](https://media-exp1.licdn.com/dms/image/C4E12AQGVU-tkN2J1uw/article-inline_image-shrink_1000_1488/0/1629710231462?e=1647475200&v=beta&t=f2w0Dq3qnH9OlA106VTWgqK-8jIHRsIUlAFONuWoH9Q)](http://doi.org/10.1161/CIRCULATIONAHA.109.887497)
+![http://doi.org/10.1161/CIRCULATIONAHA.109.887497](4.-hellingsw_iph.jpeg)
 
 In 2013 we [found](https://doi.org/10.1161/STROKEAHA.113.002633) that \[#sex / #gender] associates with #IPH and modulates the association with secondary outcome after #CEA, more in men ♂ than women ♀👇🏽. This work was led by Joyce Vrijenhoek and @Hester den Ruijter and marked the start of research into sex differences in CVD at the UMC Utrecht.
 
-* [![No alt text provided for this image](https://media-exp1.licdn.com/dms/image/C4E12AQGFFuDhx79Rew/article-inline_image-shrink_1000_1488/0/1629710187503?e=1647475200&v=beta&t=HBuNGM7o_eUTZ9szmRhXG3CCHu2HFlZOFy8CLmq5Ggk)](http://doi.org/10.1161/STROKEAHA.113.002633)
+![http://doi.org/10.1161/STROKEAHA.113.002633](5.-vrijenhoekj_iph_sex.jpeg)
 
 ### ExpressScan
 
