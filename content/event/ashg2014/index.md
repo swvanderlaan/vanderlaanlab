@@ -1,5 +1,5 @@
 ---
-title: Cystatin C and cardiovascular disease: a Mendelian randomization study
+title: Cystatin C and cardiovascular disease, a Mendelian randomization study
 
 event: ASHG 2014
 event_url: http://www.ashg.org/2014meeting/
