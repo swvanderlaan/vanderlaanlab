@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: "1"
   background:
-    image: contact.jpg
+    image: me/SWvanderLaan_Phone_v1_2015.jpg
     image_darken: 0
     image_parallax: false
     image_position: center
