@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: Cystatin C and cardiovascular disease: a Mendelian randomization study.
+summary: Cystatin C and cardiovascular disease, a Mendelian randomization study.
 abstract: "
 **S.W. van der Laan**<sup>1</sup>, T. Fall<sup>2</sup>, J. van Setten<sup>1,3</sup>, P.I.W. de Bakker<sup>3,4</sup>, G. Pasterkamp<sup>1</sup>, J. Ärnlöv<sup>2</sup>, M.V. Holmes<sup>5</sup>, F.W. Asselbergs<sup>3,6,7,8</sup> on behalf of the Cystatin C MR Consortium.</br>
 <sub><sup>1) Experimental Cardiology, UMC Utrecht, Utrecht, the Netherlands; 2) Department of Medical Sciences, Uppsala Uni- versity, Uppsala, Sweden; 3) Department of Medical Genetics, UMC Utrecht, Utrecht, the Netherlands; 4) Julius Center for Health Sciences and Primary Care, UMC Utrecht, Utrecht, the Netherlands; 5) Penn Medicine, University of Pennsylvania Health System, United States of America; 6) Institute of Cardiovascular Science, Faculty of Population Health Sciences, University College London, London, United Kingdom; 7) Durrer Center for Cardiogene- tic Research, ICIN-Netherlands Heart Institute, Utrecht, the Netherlands; 8) Department of Cardiology, UMC Utrecht, Utrecht, the Netherlands.</sup></sub>
@@ -25,12 +25,12 @@ abstract: "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2014-10-18T14:00:00Z"
+date_end: "2014-10-18T14:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2014-10-18T14:00:00Z"
 
 authors: []
 tags: []
