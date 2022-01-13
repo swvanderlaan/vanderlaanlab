@@ -19,7 +19,7 @@ design:
 
 <br>
 
-Since its inception the **Van der Laan Lab** has focused on the genetics of atherosclerosis and plaque morphology. 
+**Since its inception in 2016 our lab has focused on the genetics of atherosclerosis and plaque morphology.**
 
 Our research is focused on the genetic causes of atherosclerosis underlying *ischemic stroke (IS)* and *coronary artery disease (CAD)*, and their intermediate traits such as *carotid intima media thickness (cIMT)* and *arterial calcification*. With our work we aim to move from genome-wide association studies (GWAS) loci to novel therapeutic targets and (surrogate) biomarkers for cardiovascular diseases through extensive *in silico*, and *in vitro* modelling.
 

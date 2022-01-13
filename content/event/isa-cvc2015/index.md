@@ -33,7 +33,7 @@ all_day: false
 publishDate: "2015-06-06T14:00:00Z"
 
 authors: [admin]
-tags: []
+tags: ["mendelian randomization", "cystatin c", "genetics"]
 
 # Is this a featured talk? (true/false)
 featured: true

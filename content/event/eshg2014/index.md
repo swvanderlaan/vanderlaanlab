@@ -33,7 +33,7 @@ all_day: false
 publishDate: "2014-05-31T14:00:00Z"
 
 authors: [admin]
-tags: []
+tags: ["atherosclerosis", "genetics", "gwas"]
 
 # Is this a featured talk? (true/false)
 featured: false

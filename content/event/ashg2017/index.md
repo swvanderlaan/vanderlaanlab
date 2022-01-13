@@ -26,7 +26,7 @@ all_day: false
 publishDate: "2017-10-17T14:00:00Z"
 
 authors: [admin]
-tags: []
+tags: ["mendelian randomization", "fabp4", "genetics", "gwas"]
 
 # Is this a featured talk? (true/false)
 featured: true

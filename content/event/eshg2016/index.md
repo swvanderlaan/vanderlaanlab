@@ -33,7 +33,7 @@ all_day: false
 publishDate: "2016-05-21T14:00:00Z"
 
 authors: [admin]
-tags: []
+tags: ["atherosclerosis", "genetics", "coronary artery disease", "ischemic stroke", "polygenic scores"]
 
 # Is this a featured talk? (true/false)
 featured: true
