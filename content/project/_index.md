@@ -6,10 +6,10 @@ title: Latest News
 #   2 = Compact
 #   3 = Card
 #   5 = Showcase
-view: 2
+view: 5
 
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: "headers/dna_drugs_shutterstock_432561187_broad.png"
+  image: "headers/banner_man_standing_dna.png"
 ---
