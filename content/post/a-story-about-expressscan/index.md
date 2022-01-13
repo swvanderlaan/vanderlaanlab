@@ -3,11 +3,11 @@ title: A story about ExpressScan
 date: 2021-08-23T13:44:32.839Z
 summary: >-
   I am glad this
-  [hashtag#preprint](https://www.linkedin.com/feed/hashtag/?keywords=preprint)
+  [#preprint](https://www.linkedin.com/feed/hashtag/?keywords=preprint)
   <https://bit.ly/ExpressScan> by stellar 💫 PhD Joost Mekke on the
-  [hashtag#ExpressScan](https://www.linkedin.com/feed/hashtag/?keywords=expressscan)
+  [#ExpressScan](https://www.linkedin.com/feed/hashtag/?keywords=expressscan)
   in the
-  [hashtag#AtheroExpress](https://www.linkedin.com/feed/hashtag/?keywords=atheroexpress)
+  [#AtheroExpress](https://www.linkedin.com/feed/hashtag/?keywords=atheroexpress)
   from
   [](https://www.linkedin.com/in/ACoAADDXndoBbdSkQOoK6nwKD9DbpThj6emyCtc/)[Circulatory
   Health UMC
