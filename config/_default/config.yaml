@@ -3,7 +3,7 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Van der Laan & Science # Website name
+title: Van der Laan Lab # Website name
 baseurl: '' # Website URL
 copyright: '© 1979 - {year} Sander W. van der Laan' # Footer text, e.g. '© {year} Me'
 
