@@ -32,7 +32,7 @@ tags:
 projects:
   - high-throughput-imaging
 image:
-  filename: featured
+  filename: https://media-exp1.licdn.com/dms/image/C4E12AQEDP6GsKUf2yw/article-cover_image-shrink_720_1280/0/1629709599767?e=1647475200&v=beta&t=YS5SQ24k_svR6yxjNMf1XSlJXr7EHMwzng6rI_4HuaQ
   focal_point: Smart
   preview_only: false
 ---
