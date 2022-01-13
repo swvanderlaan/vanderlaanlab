@@ -24,10 +24,15 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Deep Learning
-      tag: Deep Learning
+    - name: Genetics
+      tag: genetics
+    - name: Functional Genomics
+      tag: functional-genomics
+    - name: ExpressScan
+      tag: ExpressScan
     - name: Other
-      tag: Demo
+      tag: other
+      
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
