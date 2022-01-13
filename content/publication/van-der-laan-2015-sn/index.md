@@ -21,7 +21,7 @@ authors:
 - Paul I W de Bakker
 - Gerard Pasterkamp
 tags:
-- ["ALOX5", "atherosclerosis", "eicosanoids", "plaque" "single-nucleotide polymorphism", "genetics", "histology"]
+- "ALOX5", "atherosclerosis", "eicosanoids", "plaque" "single-nucleotide polymorphism", "genetics", "histology"
 categories: []
 date: '2015-04-01'
 lastmod: 2022-01-11T15:28:29+01:00
