@@ -29,7 +29,7 @@ subtitle:
 #   columns: '1'
 ---
 
-<div data-tf-widget="VttGoqGe" data-tf-iframe-props="title=Contact Form Van der Laan Lab" data-tf-medium="snippet" style="width:100%;height:100%;"></div><script src="//embed.typeform.com/next/embed.js"></script>
+<div data-tf-widget="VttGoqGe" data-tf-iframe-props="title=Contact Form Van der Laan Lab" data-tf-medium="snippet" style="width:100%;height:400px;"></div><script src="//embed.typeform.com/next/embed.js"></script>
 
 Contact details can be found below. You can also directly book an appointment through Calendly.
 
