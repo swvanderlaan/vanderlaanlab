@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary:Open Science and Young Science in Transition.
+summary: Open Science and Young Science in Transition.
 abstract: "I presented on how I became a member of Young Science in Transition, a Chair of OSCU and our efforts to promote and implement the principles and practices of Open Science."
 
 # Talk start and end times.
