@@ -12,7 +12,7 @@ address:
   postcode: 
   country: 
 
-summary: OncoCareer Event 2021.
+summary:Open Science and Young Science in Transition.
 abstract: "I presented on how I became a member of Young Science in Transition, a Chair of OSCU and our efforts to promote and implement the principles and practices of Open Science."
 
 # Talk start and end times.
@@ -25,7 +25,7 @@ all_day: false
 publishDate: "2017-03-10T16:00:00Z"
 
 authors: [admin]
-tags: ["open science", "young science in transition"]
+tags: ["Open Science", "collaboration", "Team Science", "career", "Young Science in Transition", "Science in Transition"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -51,6 +51,6 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: ["Other"]
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: The genetics of quantified atherosclerosis 
+title: No man is an island, entire of itself… 
 
-event: X Talk
-event_url: https://example.org
+event: ICIN Young-at-Heart 2016
+event_url: 
 
-location: UMC Utrecht
+location: Tivoli, Utrecht, the Netherlands
 address:
   street: 
   city: 
@@ -12,20 +12,20 @@ address:
   postcode: 
   country: 
 
-summary: X Talk.
-abstract: "I presented on the ongoing ExpressScan project aimed at the quantification of all stained whole-slides from carotid plaques."
+summary: No man is an island, entire of itself….
+abstract: "Sander shared his thoughts on collaborating in (inter)national consortia as he went from senior PhD towards PostDoc."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-03-10T16:00:00Z"
-date_end: "2017-03-10T16:00:00Z"
+date: "2016-09-21T12:00:00Z"
+date_end: "2016-09-21T12:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-03-10T16:00:00Z"
+publishDate: "2016-09-21T12:00:00Z"
 
 authors: [admin]
-tags: []
+tags: ["Open Science", "collaboration", "Team Science", "career"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -51,6 +51,6 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: ["Other"]
 ---
 

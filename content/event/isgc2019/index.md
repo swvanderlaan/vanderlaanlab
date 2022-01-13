@@ -1,10 +1,10 @@
 ---
-title: The genetics of quantified atherosclerosis 
+title: Joanna and Sander attend the ISGC Workshop 2019 
 
-event: X Talk
-event_url: https://example.org
+event: ISGC Workshop 2019
+event_url: https://www.strokegenetics.org
 
-location: UMC Utrecht
+location: Cambridge, London, United Kingdom
 address:
   street: 
   city: 
@@ -12,20 +12,20 @@ address:
   postcode: 
   country: 
 
-summary: X Talk.
-abstract: "I presented on the ongoing ExpressScan project aimed at the quantification of all stained whole-slides from carotid plaques."
+summary: ISGC Workshop 2019.
+abstract: "[Joanna](authors/joannavonberg/_index.md) presented our work on intersecting different phenotyping methods for the discovery of [novel ischemic stroke GWAS loci](https://www.nature.com/articles/s41431-020-0580-5). We also had a really nice time in London with our friends and collaborators from the [International Stroke Genetics Consortium](https://www.strokegenetics.org)."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-03-10T16:00:00Z"
-date_end: "2017-03-10T16:00:00Z"
+date: "2019-04-07T16:00:00Z"
+date_end: "2019-04-07T16:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-03-10T16:00:00Z"
+publishDate: "2019-04-07T16:00:00Z"
 
 authors: [admin]
-tags: []
+tags: ["genetics", "ischemic stroke", "gwas"]
 
 # Is this a featured talk? (true/false)
 featured: false
@@ -51,6 +51,6 @@ slides:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
+projects: ["genetics"]
 ---
 

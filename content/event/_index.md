@@ -5,10 +5,12 @@ title: Recent & Upcoming Events
 #   1 = List
 #   2 = Compact
 #   3 = Card
-view: 2
+view: 3
 
 # Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
-  image: ""
+  image: "headers/banner_man_standing_dna.png"
 ---
+
+Below you'll find a list of recent and upcoming events where lab members attend. Mostly these are (invited) talks at scientific conferences. 
