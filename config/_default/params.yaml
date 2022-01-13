@@ -153,3 +153,5 @@ cms:
 icon:
   pack:
     ai: true
+    fas: true
+    far: true

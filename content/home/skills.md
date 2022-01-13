@@ -9,31 +9,34 @@ headless: true  # This file represents a page section.
 # Add/remove as many `feature` blocks below as you like.
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-  - icon: fa-heartbeat
+  - icon: heartbeat
     icon_pack: fas
     name: Cardiovascular disease
-    description: 80%
-  - icon: fa-terminal
+#    description: 80%
+  - icon: terminal
     icon_pack: fas
     name: Computational biology
-    description: 70%
+#    description: 70%
   - icon: chart-line
     icon_pack: fas
     name: Statistical genetics
-    description: 80%
-  - icon: fa-dna
+#    description: 80%
+  - icon: dna
     icon_pack: fas
     name: Genetics
-    description: 80%
-  - icon: fa-disease
+#    description: 80%
+  - icon: disease
     icon_pack: fas
     name: Functional genomics
-    description: 70%
-  - icon: fa-microscope
+#    description: 70%
+  - icon: microscope
     icon_pack: fas
     name: Histology
-    description: 80%
-  
+#    description: 80%
+  - icon: academia
+    icon_pack: ai
+    name: Open Science
+#    description: 80%  
 
   # Example using an emoji as an icon.
   # - icon: '😄'
