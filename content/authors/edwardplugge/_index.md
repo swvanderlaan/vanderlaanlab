@@ -27,7 +27,7 @@ social:
     link: https://github.com/
 education:
   courses:
-    - course: MSc in Biomedical Sciences (with First Class Honours)
+    - course: MSc in Biomedical Sciences
       institution: Utrecht University
       year: 2021
    - course: BSc in Biomedical Sciences
