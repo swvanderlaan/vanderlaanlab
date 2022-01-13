@@ -3,7 +3,7 @@ title: Eleanora Sardella
 role: MSc intern
 avatar_filename: avatar_eleonorasardella.jpeg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

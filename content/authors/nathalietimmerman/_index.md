@@ -3,7 +3,7 @@ title: Nathalie Timmerman
 role: PhD student
 avatar_filename: avatar_nathalietimmerman.jpeg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

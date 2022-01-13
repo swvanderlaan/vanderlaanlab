@@ -3,7 +3,7 @@ title: Madeleine van de Perk
 role: MSc intern
 avatar_filename: avatar_madeleinevandeperk.jpeg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

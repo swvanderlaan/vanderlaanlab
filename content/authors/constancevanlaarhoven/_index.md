@@ -3,7 +3,7 @@ title: Constance van Laarhoven
 role: PhD student
 avatar_filename: avatar_constancevanlaarhoven.jpeg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

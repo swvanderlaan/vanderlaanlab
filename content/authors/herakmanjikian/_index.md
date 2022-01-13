@@ -3,7 +3,7 @@ title: Herak Manjikian
 role: BSc intern
 avatar_filename: avatar_male.png
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

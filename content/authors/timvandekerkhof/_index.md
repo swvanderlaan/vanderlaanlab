@@ -3,7 +3,7 @@ title: Tim van de Kerkhof
 role: Research assistant bioinformatics & BSc intern
 avatar_filename: avatar_tim_van_de_kerkhof.jpg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

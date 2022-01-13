@@ -3,7 +3,7 @@ title: Susanne van Duijvenvoorde - Kortekaas
 role: MSc intern
 avatar_filename: avatar_susanne_van_duijvenvoorde_kortekaas.jpeg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

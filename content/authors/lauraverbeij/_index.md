@@ -3,7 +3,7 @@ title: Laura Verbeij
 role: BSc intern
 avatar_filename: avatar_lauraverbeij.jpeg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

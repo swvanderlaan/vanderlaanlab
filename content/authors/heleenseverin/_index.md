@@ -3,7 +3,7 @@ title: Heleen Severin
 role: BSc intern
 avatar_filename: avatar_heleen_severin.jpg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

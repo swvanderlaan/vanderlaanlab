@@ -3,7 +3,7 @@ title: Anke Wiersma
 role: MSc intern
 avatar_filename: avatar_ankewiersma.jpeg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

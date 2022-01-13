@@ -3,7 +3,7 @@ title: Edward Plugge
 role: MSc intern
 avatar_filename: avatar_edwardplugge.jpeg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

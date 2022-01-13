@@ -3,7 +3,7 @@ title: Danielle van Keulen
 role: PhD student
 avatar_filename: avatar_daniellevankeulen.jpeg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

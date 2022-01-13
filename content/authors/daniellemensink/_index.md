@@ -3,7 +3,7 @@ title: Daniëlle Mensink
 role: MSc intern
 avatar_filename: avatar_daniellemensink.jpeg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

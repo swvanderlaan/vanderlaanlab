@@ -3,7 +3,7 @@ title: Ruben Koek
 role: BSc intern and student researcher
 avatar_filename: avatar_rubenkoek.jpeg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

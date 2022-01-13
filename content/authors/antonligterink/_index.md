@@ -3,7 +3,7 @@ title: Anton Ligterink
 role: BSc intern
 avatar_filename: avatar_antonligterink.jpeg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:

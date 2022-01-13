@@ -3,7 +3,7 @@ title: Moezammin Baksi
 role: MSc intern
 avatar_filename: avatar_moezamminbaksi.jpeg
 organizations:
-  - name: Aon
+  - name: University Medical Center Utrecht
     url: ""
 superuser: false
 authors:
