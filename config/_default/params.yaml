@@ -5,10 +5,10 @@
 
 # Appearance
 
-theme: minimal
+theme: strawberry
 day_night: true
 font: native
-font_size: M
+font_size: S
 
 # SEO
 
@@ -47,7 +47,7 @@ coordinates:
   longitude: '5.1781403'
 directions:
 office_hours:
-  - 'Everyday of the week; or email for appointment.'
+  - 'Everyday of the week.'
 appointment_url: 'https://calendly.com/swvanderlaan'
 contact_links:
 #  - icon: comments
@@ -58,12 +58,21 @@ contact_links:
 # Site header
 
 main_menu:
+  # Display the navigation bar?
   enable: true
+  # Align menu links: left (l), center (c), or right (r)
   align: r
+  # Display your site title or `assets/media/logo*` image in the nav bar?
   show_logo: true
+  # Show a language chooser (if you have translated your site content)?
+  show_translations: false
+  # If `show_translations` is enabled, do you wish to display the current language name?
   show_language: false
+  # Let the user override the default light/dark mode of your theme?
   show_day_night: true
+  # Let the user search from the nav bar?
   show_search: true
+  # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
   highlight_active_link: false
 
 # Localization
@@ -91,7 +100,8 @@ copyright_license:
   allow_derivatives: false
   share_alike: true
   allow_commercial: false
-  notice: 'This work is licensed under {license}'
+  notice: 'Except as otherwise noted, this work is licensed under {license}, and code
+    samples are licensed under the MIT License.'
 plugins_js: []
 avatar:
   gravatar: false
@@ -106,12 +116,12 @@ projects:
 comments:
   provider: ''
   commentable:
-    page: true
-    post: true
-    docs: true
-    project: true
-    publication: true
-    talk: true
+    page: false
+    post: false
+    docs: false
+    project: false
+    publication: false
+    talk: false
   disqus:
     shortname: ''
     show_count: true
