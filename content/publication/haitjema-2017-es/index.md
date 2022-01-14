@@ -44,12 +44,13 @@ abstract: "BACKGROUND: Recent studies found an immune regulatory role for Y
 draft: false
 tags:
   - atherosclerosis
-  - corona artery disease
+  - coronary artery disease
   - cytokines
   - genetics
   - inflammation
   - Y-chromosome
-  - loss-of-Y
+  - loss of Y-chromosome
+  - LOY
 categories: []
 projects: []
 image:
