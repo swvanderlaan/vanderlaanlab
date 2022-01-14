@@ -56,7 +56,7 @@ abstract: "BACKGROUND: Tobacco smoking is a major risk factor for
 draft: false
 tags:
   - DNA methylation
-  - cardiovascular disease
+  - coronary artery disease
   - atherosclerosis
   - quantitative trait loci
   - smoking
