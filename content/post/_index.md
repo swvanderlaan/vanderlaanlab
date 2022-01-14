@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Latest Posts
 
 design:
 # Choose how many columns the section has. Valid values: 1 or 2.
