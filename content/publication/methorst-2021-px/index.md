@@ -35,6 +35,7 @@ tags:
   - genetics
   - quantitative trait loci
   - shear stress
+  - DNA methylation
 categories: []
 projects: []
 image:
@@ -46,5 +47,5 @@ lastmod: 2022-01-11T15:28:37+01:00
 publication: "*Atherosclerosis*"
 featured: false
 date: 2021-05-01
-publishDate: 2022-01-11T14:28:37.752018Z
+publishDate: 2022-01-11T14:28:37.752Z
 ---
