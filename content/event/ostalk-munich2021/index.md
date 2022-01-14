@@ -17,12 +17,12 @@ abstract: "I presented on how I became a member of Young Science in Transition, 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2017-03-10T16:00:00Z"
-date_end: "2017-03-10T16:00:00Z"
+date: "2021-12-06T12:00:00Z"
+date_end: "2021-12-06T12:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-03-10T16:00:00Z"
+publishDate: "2021-12-06T12:00:00Z"
 
 authors: [admin]
 tags: ["Open Science", "collaboration", "Team Science", "career", "Young Science in Transition", "Science in Transition"]
