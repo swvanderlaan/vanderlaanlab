@@ -212,6 +212,9 @@ draft: false
 tags:
   - GWAS
   - genetics
+  - subjective well-being
+  - depression
+  - neuroticism
 categories: []
 projects: []
 image:
@@ -223,5 +226,5 @@ lastmod: 2022-01-11T15:28:31+01:00
 publication: "*Nat. Genet.*"
 featured: false
 date: 2016-06-01
-publishDate: 2022-01-11T14:28:31.008593Z
+publishDate: 2022-01-11T14:28:31.008Z
 ---
