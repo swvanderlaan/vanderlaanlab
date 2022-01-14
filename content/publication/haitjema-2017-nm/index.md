@@ -50,7 +50,7 @@ tags:
   - haplogroups
   - sex-stratification
   - plaque
-  - Y chromosome
+  - Y-chromosome
   - histology
   - sexual dimorphism
 categories: []
@@ -64,5 +64,5 @@ lastmod: 2022-01-11T15:28:32+01:00
 publication: "*Atherosclerosis*"
 featured: false
 date: 2017-04-01
-publishDate: 2022-01-11T14:28:32.036168Z
+publishDate: 2022-01-11T14:28:32.036Z
 ---
