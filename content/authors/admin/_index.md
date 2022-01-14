@@ -1,6 +1,6 @@
 ---
 title: Sander W. van der Laan
-role: Assistant Professor Cardiovascular Genetics & Open Science, Chair of OSCU, Member YoungSiT
+role: Assistant Professor Cardiovascular Genomics & Open Science, Chair of OSCU, Member YoungSiT
 avatar_filename: avatar_swvanderlaan.jpg
 bio: My academic interests include the cardiovascular genetics, atherosclerosis, Open Science, and Science in Transition.
 interests:
@@ -40,6 +40,16 @@ organizations:
   - name: Young Science in Transition
     url: https://www.umcutrecht.nl/en/young-science-in-transition
 education:
+  degrees:
+    - course: PhD in Cardiovascular Genetics
+      institution: Utrecht University
+      year: 2016
+    - course: MSc Biology of Disease
+      institution: University Medical Center Utrecht, University of Utrecht
+      year: 2010
+    - course: BSc in Biology
+      institution: Utrecht University
+      year: 2007
   courses:
     - course: Bias training for teachers
       institution: Utrecht University
@@ -53,9 +63,6 @@ education:
     - course: Introduction to Genomic Technologies
       institution: Coursera
       year: 2017
-    - course: PhD in Cardiovascular Genetics
-      institution: Utrecht University
-      year: 2016
     - course: Computing for Data Analysis
       institution: Coursera
       year: 2014
@@ -74,12 +81,6 @@ education:
     - course: Masterclass Cardiology
       year: 2011
       institution: Interuniversity Cardiology Institute of the Netherlands (ICIN)
-    - course: MSc Biology of Disease
-      institution: University Medical Center Utrecht, University of Utrecht
-      year: 2010
-    - course: BSc in Biology
-      institution: Utrecht University
-      year: 2007
 email: s.w.vanderlaan-2@umcutrecht.nl
 superuser: true
 user_groups:
