@@ -216,6 +216,7 @@ tags:
   - genetics
   - myocardial infarction
   - GWAS
+  - secondary prevention
 categories: []
 projects: []
 image:
