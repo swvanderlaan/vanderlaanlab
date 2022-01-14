@@ -129,6 +129,7 @@ tags:
   - GWAS
   - myocardial infarction
   - secondary prevention
+  - Factor V Leiden
   - thrombosis
 categories: []
 projects: []
