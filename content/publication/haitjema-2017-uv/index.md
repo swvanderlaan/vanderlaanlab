@@ -54,11 +54,13 @@ abstract: "BACKGROUND: As genome-wide association efforts, such as CARDIoGRAM
 draft: false
 tags:
   - atherosclerosis
+  - GWAS
   - coronary artery disease
   - epigenetics
   - gene regulation
   - ischemic stroke
   - DNA methylation
+  - genetics
 categories: []
 projects: []
 image:
