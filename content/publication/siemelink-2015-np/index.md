@@ -46,7 +46,7 @@ tags:
   - coronary artery disease
   - carotid endarterectomy
   - polygenic risk score
-  - circulating lipids
+  - circulating lipid levels
 categories: []
 projects: []
 image:
@@ -58,5 +58,5 @@ lastmod: 2022-01-11T15:28:30+01:00
 publication: "*Atherosclerosis*"
 featured: false
 date: 2015-09-01
-publishDate: 2022-01-11T14:28:30.065592Z
+publishDate: 2022-01-11T14:28:30.065Z
 ---
