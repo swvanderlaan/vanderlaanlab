@@ -36,6 +36,8 @@ tags:
   - genetics
   - functional genomics
   - GWAS
+  - height
+  - BMI
 categories: []
 projects: []
 image:
@@ -47,5 +49,5 @@ lastmod: 2022-01-11T15:28:39+01:00
 publication: "*Nat. Commun.*"
 featured: false
 date: 2015-01-01
-publishDate: 2022-01-11T14:28:39.700356Z
+publishDate: 2022-01-11T14:28:39.700Z
 ---
