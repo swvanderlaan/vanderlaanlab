@@ -2,7 +2,7 @@
 title: "Glycophorin C in atherosclerotic plaque is associated with major adverse cardiovascular events after carotid endarterectomy"
 subtitle: ""
 publication_types:
-  - "2"
+  - "3"
 authors:
   - Joost M. Mekke
   - Tim R. Sakkers
