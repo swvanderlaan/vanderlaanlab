@@ -24,7 +24,7 @@ site_type: Organization
 local_business_type: ''
 
 # Organization name (optional)
-org_name: 'Van der Laan Lab'
+org_name: 'Van der Laan & Science'
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description: Since its inception the **Van der Laan Lab** has focused on the genetics of atherosclerosis and plaque morphology.

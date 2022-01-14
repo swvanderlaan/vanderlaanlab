@@ -4,7 +4,7 @@ widget_id: welcome
 headless: true
 weight: 10
 title: |
-  Van der Laan Lab
+  Van der Laan & Science
 active: true
 design:
   columns: "1"
