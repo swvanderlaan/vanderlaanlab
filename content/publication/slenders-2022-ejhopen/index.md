@@ -1,5 +1,5 @@
 ---
-title: "Cystatin C and cardiovascular disease: A Mendelian randomization study"
+title: "Intersecting single-cell transcriptomics and genome-wide association studies identifies crucial cell populations and candidate genes for atherosclerosis"
 subtitle: ""
 publication_types:
   - "2"
@@ -49,9 +49,9 @@ image:
   focal_point: ""
   preview_only: false
 summary: ""
-lastmod: 2021-21-21T15:28:31+01:00
+lastmod: 2021-12-21T15:28:31+01:00
 publication: "*EHJ Open*"
 featured: true
-date: 2021-21-21
-publishDate: 2021-21-21T14:28:31.326132Z
+date: 2021-12-21
+publishDate: 2021-12-21T14:28:31.326132Z
 ---
